@@ -1,0 +1,31 @@
+.order-form-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.order-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.order-form label {
+    margin-bottom: 10px;
+}
+
+.order-form input {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.order-form button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.order-form button:hover {
+    background-color: #45a049;
+}
